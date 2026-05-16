@@ -1,8 +1,8 @@
 manifestVersion: 1
 id: fractal-store-solo-node
 category: bitcoin
-name: Fractal Bitcoin Node
-version: "0.2.9"
+name: Fractal Bitcoin
+version: "0.3.0"
 tagline: Run a Fractal Bitcoin full node for solo SHA-256 mining
 icon: icon.svg
 description: >-
@@ -23,9 +23,9 @@ description: >-
 
   Requirements: ~10 GB free disk, ~512 MB RAM minimum.
   Initial blockchain sync takes several hours.
-developer: Community
+developer: Fractal Bitcoin
 website: https://fractalbitcoin.io
-dependencies: []
+dependencies: Fractal Bitcoin
 repo: https://github.com/fractal-bitcoin/fractald-release
 support: https://docs.fractalbitcoin.io
 port: 3000
@@ -33,6 +33,9 @@ gallery:
   - 1.jpg
   - 2.jpg
   - 3.jpg
+  releaseNotes: >-
+  2026.03.19 - Icon Fix
+  2026.01.11 - Initial Release
 path: ""
 defaultUsername: ""
 defaultPassword: ""
