@@ -2,7 +2,7 @@ manifestVersion: 1
 id: fractal-store-solo-node
 category: bitcoin
 name: Fractal Bitcoin
-version: "0.3.2"
+version: "0.3.3"
 tagline: Run a Fractal Bitcoin full node for solo SHA-256 mining
 icon: https://raw.githubusercontent.com/wvk2017/fractal-store-solo-node/941518a93f065173ca795ecd61df8ae69289f3ad/fractal-store-solo-node/icon.svg
 description: >-
@@ -25,14 +25,14 @@ description: >-
   Initial blockchain sync takes several hours.
 developer: Fractal Bitcoin
 website: https://fractalbitcoin.io
-dependencies: Fractal Bitcoin
+dependencies: []
 repo: https://github.com/fractal-bitcoin/fractald-release
 support: https://docs.fractalbitcoin.io
 port: 3000
 gallery:
-  - https://raw.githubusercontent.com/wvk2017/fractal-store-solo-node/refs/heads/main/fractal-store-solo-node/1.jpg
-  - https://raw.githubusercontent.com/wvk2017/fractal-store-solo-node/refs/heads/main/fractal-store-solo-node/2.jpg
-  - https://raw.githubusercontent.com/wvk2017/fractal-store-solo-node/refs/heads/main/fractal-store-solo-node/3.jpg
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
